@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "405149012080",
+    "firebase_url": "https://fir-textreco.firebaseio.com",
+    "project_id": "fir-textreco",
+    "storage_bucket": "fir-textreco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405149012080:android:b7b1550a86c09d0b",
+        "android_client_info": {
+          "package_name": "com.example.yohan.firebaseml2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405149012080-47ptqdjiatiogslvm2m6984t4nfu6531.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwzCQEwMWXxwan105fcdOf1NN1RbAmQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
